@@ -1,0 +1,36 @@
+{
+    "1765298030966": {
+        "title": "Chat mới",
+        "history": [
+            {
+                "role": "user",
+                "content": "hi"
+            },
+            {
+                "role": "ai",
+                "content": "Hi there! How can I help you today?"
+            },
+            {
+                "role": "user",
+                "content": "hi"
+            },
+            {
+                "role": "ai",
+                "content": "Hi there again! How can I help you, or what's on your mind?"
+            }
+        ]
+    },
+    "1765298667470": {
+        "title": "Chat mới",
+        "history": [
+            {
+                "role": "user",
+                "content": "hi"
+            },
+            {
+                "role": "ai",
+                "content": "Hi there! How can I help you today?"
+            }
+        ]
+    }
+}
