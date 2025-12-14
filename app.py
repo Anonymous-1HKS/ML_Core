@@ -18,7 +18,7 @@ import google.generativeai as genai
 from google.generativeai.types import HarmCategory, HarmBlockThreshold
 
 # API KEY
-GOOGLE_API_KEY = "AIzaSyDtjvCkJG0sPePWRtpca_3Tfw9fapI6JtI"
+GOOGLE_API_KEY = "GOOGLE_API"
 
 try:
    genai.configure(api_key=GOOGLE_API_KEY)
